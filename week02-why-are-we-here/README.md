@@ -71,4 +71,11 @@ who can describe a feeling precisely enough that a machine can draw it.
 Seven lines. One heart. A chocolate bar that breaks. And a designer who
 is no longer afraid of the terminal.
 
+## References
+
+- Georg Nees, *Schotter*, 1968 — the grid that falls apart (week 1 sketch).
+- Frieder Nake, *Walk-through-Raster* — lecture reading on rules and lines.
+- Dylan Beattie, *The Art of Code* — https://www.youtube.com/watch?v=6avJHaC3C2U
+- Hong Kong Observatory — tidal data, https://www.hko.gov.hk/tide/eCLKtext2023.html
+
 *Eating-Yuting, September 2026*
