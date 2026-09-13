@@ -46,6 +46,15 @@ it, the same object read two ways, beautiful both times; a tiny,
 adorable bird game; patterns that grow like living things. Code is not
 only engineering — it is a creative medium.
 
+The film also answered a question I had been carrying: *how much* code
+does a designer actually need? Not enough to build a compiler — but
+enough to read it. Reading is the level where collaboration happens: a
+designer who can read code can describe an idea precisely enough for a
+machine to execute it, can judge whether an AI's draft is right or
+dangerously wrong, and can talk to engineers as a colleague instead of
+a client. You do not have to write everything yourself — but literacy
+is what turns human-machine collaboration from dictation into dialogue.
+
 **Connect programming with other areas.** This is why we are here: to
 gain a new skill next to paper and ink, to lift our work beyond static
 mock-ups, to make ideas land in the real world, to collaborate across
