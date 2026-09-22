@@ -2,10 +2,14 @@
 
 *A reflection on why a designer is learning to program — SD5913, Week 1.*
 
-I am a packaging designer by training — paper, ink, and box structures
-were the materials I could touch, and code always seemed like another
-world. This week, that feeling changed. My first week fits in seven
-lines — the notes I wrote in plain English, the way I really think:
+My background is mainly in graphic design, packaging and digital media.
+I usually approach my work from an art and design perspective, and I have
+little experience with programming. Before this course, I had tried Trae
+and experimented with AI-generated video using Midjourney (MJ) and Jimeng.
+Working directly with code still felt unfamiliar, but this week I began
+using it to develop my own visual ideas.
+
+I wrote seven short notes in plain English to describe my first week:
 change some numbers, change to the heart, try to make a chocolate game
 with AI based on the graphics, git add them to github, read the movie,
 connect programme with other areas, met some bug.
@@ -49,7 +53,7 @@ a client. You do not have to write everything yourself — but literacy
 is what turns human-machine collaboration from dictation into dialogue.
 
 **Connect programming with other areas.** This is why we are here: to
-gain a new skill next to paper and ink, to lift our work beyond static
+add programming to my existing art and design skills, to lift our work beyond static
 mock-ups, to make ideas land in the real world, to collaborate across
 the wall of language, and to explore the borderland between art and
 code — where an early plotter drawing and my pink heart both live.
