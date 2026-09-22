@@ -33,7 +33,7 @@ designer directs.
 GitHub. The commands that first looked like spells became a habit of
 mind: do something, save it, describe it, share it.
 
-**Read the movie.** Dylan Beattie’s (2020) *The Art of Code* gave my week a
+**Read the movie.** Dylan Beattie’s *The Art of Code* (NDC Conferences, 2020) gave my week a
 soundtrack: code that *is* a rock song's lyrics — I sat up when I heard
 it, the same object read two ways, beautiful both times; a tiny,
 adorable bird game; patterns that grow like living things. Code is not
@@ -73,6 +73,6 @@ is no longer afraid of the terminal.
 
 ## References
 
-Beattie, D. (2020, January 31). *The art of code* [Conference presentation]. NDC London, London, United Kingdom. https://dylanbeattie.net/talks/the-art-of-code.html
+NDC Conferences. (2020, February 26). *The art of code - Dylan Beattie* [Video]. YouTube. https://www.youtube.com/watch?v=6avJHaC3C2U
 
 sd5913. (n.d.). *Week 02: Your repo passes the check, then: predict, break, fix* [Course materials]. GitHub. Retrieved September 22, 2026, from https://github.com/sd5913/pfad/tree/2026/week02
