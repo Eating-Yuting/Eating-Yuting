@@ -1,36 +1,38 @@
 # Process
 
-*How I wrote this essay, and how I used AI.*
+I used WorkBuddy to discuss ideas, generate and explain code, draft English
+from my notes, and improve grammar. The experiences and direction came
+from my first course exercises: changing the Schotter parameters, making
+a pink heart, trying a blue ice version, and asking for a 3D chocolate bar
+that could break apart. I also asked for help understanding Git commands
+and troubleshooting errors.
 
-Everything in this essay comes from things I actually did in Week 1:
-running and modifying the *Schotter* sketch (changing SEED, CHAOS and
-the colours), making the heart version, and building a 3D "chocolate
-bar" version with AI's help. It also comes from the problems I met —
-my first `git push` failing with 403, a wrong branch name, a leftover
-`index.lock`, a garbled character that broke my program — and from
-watching Dylan Beattie's *The Art of Code*, after which I wrote down
-the three moments that impressed me most: code as song lyrics, the
-little bird game, and patterns that grow like living things.
+After watching Dylan Beattie’s The Art of Code, I described the parts that
+stayed with me: the connection between code and music, the little bird
+game, and patterns that developed like living things. I wrote seven short
+English notes about my week and asked WorkBuddy to build the essay around
+them. I later asked it to explain more clearly how much programming a
+designer needs to learn and whether reading code can support collaboration.
 
-The writing itself went in stages. After the exercises and the film I
-wrote my own notes — seven plain English lines like "change some
-numbers" and "change to the heart" — and those lines became the
-backbone of the essay; they are quoted in it. I then told an AI
-assistant my outline, my impressions of the film and my bug stories,
-and asked it to help draft the essay in English around my outline. I
-read the draft, corrected details, decided what to keep and what to
-cut, and added my own points, such as why designers need to read code
-and how much is enough to learn. Each stage was committed separately,
-so the git history shows how the essay developed from draft to final
-version.
+One thing I kept was the draft structured around those seven notes. It
+connected the heart and chocolate experiments to my own reasons for
+learning programming. That was more useful to me than a general essay
+about what technology can do.
 
-To be clear about the role of AI: it was used for discussing ideas,
-drafting English text from my outline and notes, polishing grammar, and
-answering my git and Python questions while I did the exercises. It was
-not used for the experiences, the opinions or the seven-line outline —
-those are mine. The committing, the pushing and the debugging were done
-by me.
+One suggestion I rejected was replacing the original sketch file with
+the AI-generated heart code. I wanted to keep the starting version
+available, and I said so. Later, I specifically asked for a separate
+Python file for the pink heart. The project now contains both sketch.py
+and heart.py. The proposed code could make the shape I wanted, but the
+instruction to replace the original file did not fit how I wanted to
+keep my experiments.
 
-Using AI honestly made me think harder, not less. AI can produce text
-fast, but it cannot decide what I want to say. The seven lines came
-from my week; the essay only explains them.
+AI also helped inspect files and explain errors. I followed that guidance
+while learning to run programs and use Git, so I would not describe the
+technical work as entirely independent. I supplied the visual requests,
+my reactions to the talk, and the reasons I wanted to learn programming.
+
+On September 22, I asked Codex to review the existing essay and the relevant
+WorkBuddy record. Codex prepared corrections to the references and clarified
+the kept and rejected examples above. This was a later review of the work
+already saved in September, not part of the original submission history.
