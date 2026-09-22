@@ -13,14 +13,14 @@ connect programme with other areas, met some bug.
 Here is what they mean, and why they answer the question *why are we
 here*.
 
-**Change some numbers.** I started from *Schotter* (Georg Nees, 1968) —
-a grid of squares, perfect at the top, falling apart towards the bottom.
-Change COLS, SEED, CHAOS, run again, and a new artwork appears in one
-second. I was not drawing anymore; I was *describing* what I wanted, and
+**Change some numbers.** I started from the course sketch based on Georg Nees’s
+*Schotter*: a grid of squares, perfect at the top, falling apart towards
+the bottom (sd5913, n.d.).
+Change COLS, SEED, CHAOS, run again, and a different arrangement appears. I was not drawing anymore; I was *describing* what I wanted, and
 the machine drafted it for me.
 
-**Change of the heart.** I put the classic heart equation into the code,
-and the program skipped every square outside it. The falling squares
+**Change of the heart.** With AI’s help, I added a heart equation
+to the code, and the program skipped every square outside it. The falling squares
 became a pink heart — a "change of heart" in both senses.
 
 **Try to make a chocolate game with AI.** Then I asked: could this 2D
@@ -33,7 +33,7 @@ designer directs.
 GitHub. The commands that first looked like spells became a habit of
 mind: do something, save it, describe it, share it.
 
-**Read the movie.** Dylan Beattie's *The Art of Code* gave my week a
+**Read the movie.** Dylan Beattie’s (2020) *The Art of Code* gave my week a
 soundtrack: code that *is* a rock song's lyrics — I sat up when I heard
 it, the same object read two ways, beautiful both times; a tiny,
 adorable bird game; patterns that grow like living things. Code is not
@@ -52,7 +52,7 @@ is what turns human-machine collaboration from dictation into dialogue.
 gain a new skill next to paper and ink, to lift our work beyond static
 mock-ups, to make ideas land in the real world, to collaborate across
 the wall of language, and to explore the borderland between art and
-code — where a 1968 plotter drawing and my pink heart both live.
+code — where an early plotter drawing and my pink heart both live.
 
 **Met some bugs.** The bugs I met during the period were the best
 teachers. My first push failed with "403: permission denied" because I
@@ -73,9 +73,6 @@ is no longer afraid of the terminal.
 
 ## References
 
-- Georg Nees, *Schotter*, 1968 — the grid that falls apart (week 1 sketch).
-- Frieder Nake, *Walk-through-Raster* — lecture reading on rules and lines.
-- Dylan Beattie, *The Art of Code* — https://www.youtube.com/watch?v=6avJHaC3C2U
-- Hong Kong Observatory — tidal data, https://www.hko.gov.hk/tide/eCLKtext2023.html
+Beattie, D. (2020, January 31). *The art of code* [Conference presentation]. NDC London, London, United Kingdom. https://dylanbeattie.net/talks/the-art-of-code.html
 
-*Eating-Yuting, September 2026*
+sd5913. (n.d.). *Week 02: Your repo passes the check, then: predict, break, fix* [Course materials]. GitHub. Retrieved September 22, 2026, from https://github.com/sd5913/pfad/tree/2026/week02
