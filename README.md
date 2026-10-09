@@ -1,5 +1,7 @@
 # Why Are We Here?
 
+By Lily-eating.
+
 *A reflection on why a designer is learning to program — SD5913, Week 1.*
 
 My background is mainly in graphic design, packaging and digital media.

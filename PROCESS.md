@@ -1,5 +1,7 @@
 # Process
 
+By Lily-eating.
+
 I used WorkBuddy to discuss ideas, generate and explain code, draft English
 from my notes, and improve grammar. The experiences and direction came
 from my first course exercises: changing the Schotter parameters, making
