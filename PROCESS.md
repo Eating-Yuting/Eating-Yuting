@@ -1,6 +1,6 @@
 # Process
 
-By Lily-eating.
+By Eating-Yuting.
 
 I used WorkBuddy to discuss ideas, generate and explain code, draft English
 from my notes, and improve grammar. The experiences and direction came

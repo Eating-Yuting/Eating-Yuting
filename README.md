@@ -1,6 +1,6 @@
 # Why Are We Here?
 
-By Lily-eating.
+By Eating-Yuting.
 
 *A reflection on why a designer is learning to program — SD5913, Week 1.*
 
